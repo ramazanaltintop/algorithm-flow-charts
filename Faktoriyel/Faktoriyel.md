@@ -1,1 +1,0 @@
-![](Faktoriyel.drawio.png)
