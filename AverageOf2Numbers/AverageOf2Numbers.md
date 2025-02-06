@@ -1,0 +1,1 @@
+![AverageOfTwoNumbers](AverageOf2Numbers.drawio.png)
