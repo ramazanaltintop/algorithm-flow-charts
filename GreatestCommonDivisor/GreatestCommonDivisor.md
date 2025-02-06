@@ -1,0 +1,1 @@
+![GreatestCommonDivisor](GreatestCommonDivisor.drawio.png)
